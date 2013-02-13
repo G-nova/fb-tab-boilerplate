@@ -1,0 +1,12 @@
+# OS generated files
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# IDE Files
+*.sublime-project
+*.sublime-workspace
+
+# Configuration file. Must be private
+inc/config.php
