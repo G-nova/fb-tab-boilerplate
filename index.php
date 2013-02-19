@@ -97,12 +97,14 @@
       });
 
       // Reload tab when user log in & out
+      /*
       FB.Event.subscribe('auth.login', function(response) {
         window.location.reload();
       });
       FB.Event.subscribe('auth.logout', function(response) {
         window.location.reload();
       });
+      */
 
       // Prevent iframe scrollbar
       window.setTimeout(function () {
